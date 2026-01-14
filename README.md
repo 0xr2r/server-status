@@ -18,6 +18,10 @@ It outputs the data in a SQLITE3 database, and includes an option for saving uni
 
 #poc
 
+![لقطة الشاشة 2026-01-14 093815](https://github.com/user-attachments/assets/695c5e07-4800-4bcb-a7d9-3a3adb4f0ed0)
+
+
+
 The server-status page can be found on apache servers by making a GET request to /server-status. This will display some details about the server and a long list of requests made to the server and shown below
 https://github.com/mazen160/server-status_PWN
 python server-status_PWN.py — url ‘https://xxxx.com/server-status'
