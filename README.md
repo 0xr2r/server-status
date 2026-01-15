@@ -30,5 +30,10 @@ If the /server-status is exposed to the public then there is something wrong. Th
 If the applications sends CSRF tokens, API keys, or anything else in a GET request then attackers will be able to see it. Using the server-status_PWN tool 
 you can constantly monitor the page and examine the results later.
 
+#poc
+
+https://www.youtube.com/watch?v=vnPQ4ldKYds
+
+
 
 
